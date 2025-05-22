@@ -20,7 +20,7 @@ body {
 .navegacion {
     width: 100%;
     background-color: #325268;
-    padding: 0.5rem 0;
+    padding: 20px;
     margin-bottom: 1.5rem;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
@@ -155,4 +155,8 @@ li:hover ul#submenu {
 
 .tabla img:hover {
     transform: scale(1.05);
+}
+.contenido{
+    width: 90%;
+    margin: auto;
 }
