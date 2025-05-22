@@ -73,17 +73,3 @@
     color: white;
     border-radius: 5px;
   }
-  
-  /* RESPONSIVE GRID */
-  @media (min-width: 600px) {
-    .grid-contenido {
-      grid-template-columns: 1fr;
-    }
-  }
-  
-  @media (min-width: 900px) {
-    .grid-contenido {
-      grid-template-columns: 1fr 1fr 1fr
-    }
-  }
-  
